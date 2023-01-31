@@ -1,0 +1,58 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '3.0.1'
+    id 'io.spring.dependency-management' version '1.1.0'
+}
+
+def static getDate() {
+    return new Date().format('yyyy-MM-dd-HH-mm-ss')
+}
+
+group = "b314"
+version = "v-${getDate()}"
+
+repositories {
+    mavenCentral()
+    maven { url 'https://repo.spring.io/milestone' }
+}
+
+dependencies {
+    // Spring boot
+    implementation 'org.springframework.boot:spring-boot-starter'
+
+    // AWS main sdk
+    implementation 'com.amazonaws:aws-java-sdk-bom:1.11.1000'
+
+    // AWS s3
+    implementation 'com.amazonaws:aws-java-sdk-s3:1.12.382'
+
+    // PostgreSQL jdbc driver
+    runtimeOnly 'org.postgresql:postgresql'
+
+    // JdbcTemplate
+    implementation 'org.springframework.boot:spring-boot-starter-jdbc'
+
+    // JSON
+    implementation 'org.json:json:20220924'
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src/java']
+        }
+        resources {
+            srcDirs = ['src/resources']
+        }
+    }
+}
+
+jar {
+    manifest {
+        attributes(
+            'Main-Class': 'app.App'
+        )
+    }
+}
+
+libsDirName = './jar'

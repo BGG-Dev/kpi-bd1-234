@@ -1,0 +1,224 @@
+id,body,post_id,user_creator_id,creation_timestrmpz
+77864463,"Hello @sam, thanks for your reply.
+Below is HTML code
+===
+<md-input-container class=""full-width custom-input no-margin"" >
+      <input type=""text"" name=""location"" autocomplete=""off"" id=""location"" ng-model=""vm.location"" g-places-autocomplete />
+    </md-input-container>
+===
+It works perfectly on browser in desktop and mobile. But it not works after i build app of android.",45436479,2834535,2017-08-02 04:54:53.330000+00:00
+77878777,"Hello @sam, Yes , i am passing argument libraries in googleapi URL. Also i have installed whitelist plugin. Also in my config.xml there is <allow-navigation href=""*"" />.",45436479,2834535,2017-08-02 11:18:26.133000+00:00
+88396195,"@DávidPásztor all the methods, protocols and extensions are public",50687298,195504,2018-06-05 06:26:17.773000+00:00
+88396655,"@DávidPásztor added sample code the probem seems to be because of generics, normal methods work fine",50687298,195504,2018-06-05 06:42:36.510000+00:00
+89043042,@HarvIpan ValueError: No axis named user_Id for object type <class 'pandas.core.frame.DataFrame'>,51025252,7017670,2018-06-25 14:01:15.517000+00:00
+89043055,@jezrael I get the error ValueError: No axis named user_Id for object type <class 'pandas.core.frame.DataFrame'>,51025252,7017670,2018-06-25 14:01:30.087000+00:00
+89228077,"@Divakar Sorry, you are right. Done. I was looking for a conceptual answer rather than a practical answer. In this regard, I didn't even bother trying to implement a ""loopy"" solution.",51121265,8924087,2018-07-01 07:48:59.870000+00:00
+89228416,@Divakar Totally right! Thanks!,51121265,8924087,2018-07-01 08:20:38.187000+00:00
+89991359,"@SergeyRudenko i have added  app.component.ts file code in my question, please have a look. Thanks in advance.",51501366,2834535,2018-07-25 05:37:05.500000+00:00
+115921759,"It's quite complex so I didn't want to put it, but I'll add it at the bottom.",65565976,8924087,2021-01-04 16:20:19.003000+00:00
+115922389,I see. I replicated what's written over here to avoid doing heavy computations on every row: https://stackoverflow.com/questions/62840827/pyspark-udf-optimization-challenge Would you happen to have any other suggestions?,65565976,8924087,2021-01-04 16:40:51.817000+00:00
+49778408,@Templar nope no subview is added on top of map,30867249,195504,2015-06-16 13:08:43.520000+00:00
+49778456,@HarvantS. sir please refer the code above,30867249,195504,2015-06-16 13:09:43.103000+00:00
+102285333,unless how I used `avalilableShops` in my parent component?,57934425,8056895,2019-09-14 10:15:24.333000+00:00
+102285450,"Ok, assume I define it in a child as Empty its working fine. But I want to use it in form in parent component, How do I do it?",57934425,8056895,2019-09-14 10:24:53.403000+00:00
+123524292,"@Omri374 thanks for reverting back, I understand the cropped image path but is there an API in Keras which takes input the normalized rectangle and do the classification?",69879144,195504,2021-11-08 06:54:23.480000+00:00
+106865254,@NicoHaase Backend is Laravel. I am not sure from where to start.,60406988,2834535,2020-02-26 08:28:32.227000+00:00
+122969735,I have edit my question and added that code.,69552097,2834535,2021-10-14 13:15:26.490000+00:00
+58623856,@Jerry can you please elaborate I mean I am using pods to integrate them and I need to keep both of them in my project and enable one of them as per the configuration,35278870,195504,2016-02-17 17:48:15.680000+00:00
+125618895,"Thank you for all your comments, I found solution from cpanel by contacting them.",60406988,2834535,2022-02-10 07:43:31.620000+00:00
+126087055,"@KarimNosseir I imported the tflite weights to the sample object detention example app, changed the input size to the expected input size of network and changes the labels file to the custom labels (classes)",71292068,195504,2022-03-03 05:58:18.203000+00:00
+85726786,"@PeterBons yes, sorry it is of the form [A, B , C] where A, B, C are json objects of the form {Name:x, Value:y}",49362635,7017670,2018-03-19 12:47:02.890000+00:00
+85728212,@PeterBons i have included a smaple input oputput pair,49362635,7017670,2018-03-19 13:18:49.170000+00:00
+86049049,@krflol even putting 1 in quotes in the if condition gives wrong answer,49521271,7017670,2018-03-27 20:10:30.677000+00:00
+86049379,"@ArndtJonasson yes, that is the issue..plz put it ias the asnswer",49521271,7017670,2018-03-27 20:21:39.850000+00:00
+9210642,can any body let me know why its voted negative I did the research but I had no clue on technicality of this moreover all the approaches shown in answer are for pdfs and images my question is for transition between views,7578569,195504,2011-09-29 06:19:01.437000+00:00
+9260491,didnt got any apis till now. :(,7619251,195504,2011-10-02 14:41:01.740000+00:00
+92070886,"@P.Camilleri but even the variances are not the same? At least variances explained by the PCs and the eigenvectors should be the sam, right? Please see the edit.",52565675,7017670,2018-09-29 09:03:17.247000+00:00
+92078891,"@P.Camilleri no, i have used the same formula xTCx for variance along a vector x, where C is the covariance matrix",52565675,7017670,2018-09-29 18:08:57.170000+00:00
+107631122,you can see $card with .= marks,60834012,8056895,2020-03-24 15:24:44.483000+00:00
+108833643,Wow! Thanks. Any idea why it doesn't work with Regex? @WiktorStribiżew,61525294,8924087,2020-04-30 14:14:28.087000+00:00
+31607516,I have a singelton database manager which creates the managedObjectContext and rest is standard process,21022550,195504,2014-01-09 17:15:30.160000+00:00
+61546978,@SohilR.Memon its 64 bit compatible,36996562,195504,2016-05-03 06:05:52.357000+00:00
+61548819,@SohilR.Memon done,36996562,195504,2016-05-03 07:05:09.250000+00:00
+61568467,@SohilR.Memon nope,36996562,195504,2016-05-03 15:17:10.107000+00:00
+34728374,YES I tested it in production environment,1763312,195504,2014-04-01 06:21:45.407000+00:00
+4631942,@ Octavian --> updated the manifest,4271751,195504,2010-11-24 22:29:49.010000+00:00
+4632028,@Octavian: I tried that initially but no success,4271751,195504,2010-11-24 22:38:39.820000+00:00
+4632074,@Octavian: its connected to WiFi,4271751,195504,2010-11-24 22:42:45.890000+00:00
+4632193,"ok got the answer we need to move <uses-permission android:name=""android.permission.INTERNET""/> after </applications> tag",4271751,195504,2010-11-24 22:51:57.853000+00:00
+4634539,@gary: I'll do that gary,4271751,195504,2010-11-25 05:41:51.857000+00:00
+11863382,@Invincible yupp I checked that its as expected I tracked my code till there it crashes after that,9389736,195504,2012-02-22 06:37:53.397000+00:00
+11863788,"@Invincible when you use ""deleteRowsAtIndexPaths"" it doesnt goes to commitEdittingStyle method",9389736,195504,2012-02-22 07:09:31.650000+00:00
+44394311,Where should I post it then?,28002654,4034190,2015-01-17 18:24:58.423000+00:00
+84319635,"I have tried many preg_match, sumFunction was spell mistake. @Leader_ will be common pattern / identifier. i can change it . In short, i just want abcXyz, xyzAbc from @Leader_abcXyz! and @Leader_xyzAbc! respectively. Thanks for quick reply.",48661005,2834535,2018-02-07 10:15:17.340000+00:00
+84319761,"I tried
+
+preg_match('@^(?:Leader)?([^@]+)@i',
+    ""asdfasfsfsdf Leader_KevinAvard_1500975840"", $matches);
+$host = $matches[1];
+
+Also tried
+
+$szPostContent = ""asdfasfsfsdf Leader_KevinAvard_1500975840 asdfasdfsdf @Leader_KevinAvard_1500975840 asdfasdfsdf Leader_KevinAvard_1500975840 asdfasdfsdf Leader_KevinAvard_1500975840 asdfasdfsdf"";
+
+preg_match(""/Leader_(.*)/"", $szPostContent, $results) ;
+echo ""<pre>"";
+print_r($results);",48661005,2834535,2018-02-07 10:18:56.637000+00:00
+84319813,"I want to notify user if admin mention their user name with @ in editor. so i want to fetch word after @Leader_ , so i can get that word and send them mail.",48661005,2834535,2018-02-07 10:20:16.020000+00:00
+84319880,"sorry but i am not getting you. Can you please give me full preg match, so i can try.",48661005,2834535,2018-02-07 10:21:45.223000+00:00
+93021324,I didn't got your answer!,53061282,8056895,2018-10-30 09:45:43.157000+00:00
+93022165,"yeah Its about in div tag style attribute. does it possible without use style attribute in div tag that class=""container"" used?",53061282,8056895,2018-10-30 10:09:02.633000+00:00
+93022295,I don't want to add any custom.css file to my html file. simply I want to change the fixed with of class container without use any CSS. (Only from bootstrap when using CDN),53061282,8056895,2018-10-30 10:12:39.957000+00:00
+55661918,Sorry for repling late. I got the problem solved somehow. Thanks anyway. I really appreciate your help.,33750946,3551261,2015-11-27 07:05:56.763000+00:00
+5735652,First problem is sort but the remaining two stay.,5113793,195504,2011-02-25 08:38:43.143000+00:00
+5919519,searchBarDidBeginEditing,5244333,195504,2011-03-10 07:39:54.957000+00:00
+6238716,I want that in landscape mode also complete screen is populated from left to right as in portrait mode. can this be done using autoresizemask,5497763,195504,2011-03-31 09:54:01.007000+00:00
+6240739,"it didn,t solved my problem all it did was whole view shifted to center I want it stretched",5497763,195504,2011-03-31 12:05:13.623000+00:00
+6769028,yes I am getting a PHP errors,5884631,195504,2011-05-04 14:24:05.990000+00:00
+6810278,yes infact in the same block of 'if-else' block,5912909,195504,2011-05-06 17:17:17.060000+00:00
+6811735,"initial screen has 5 grey buttons now suppose user touches first one its background should change, and next time if user changes 5th one all other should go back to grey and only fifth one should have red background",5912909,195504,2011-05-06 19:02:02.017000+00:00
+6823404,my question is simple how van I post image using ASIHTTP request so that above mentioned PHP script can save image to uploads directory,5923862,195504,2011-05-07 21:34:47.740000+00:00
+6823476,please dont misunderstand but I am not at all sure of how to replicate that mutable request to asi request,5923862,195504,2011-05-07 21:44:59.990000+00:00
+6940814,nope this is a response string can you suggest me how to parse this,6007193,195504,2011-05-15 07:59:05.093000+00:00
+6940858,yupp this string I get after one round of JSON parsing but I want it to get further split down,6007193,195504,2011-05-15 08:07:48.913000+00:00
+6950463,I need a view which display map and I can display pins in that view,6014009,195504,2011-05-16 06:56:29.067000+00:00
+79060611,"@Rightleg thx, did you do just pip install openCV?",46050563,7017670,2017-09-05 08:44:15.143000+00:00
+79508822,@KalyanReddy I have waited for more than 30-40 minutes.,46273187,7017670,2017-09-18 06:54:32.480000+00:00
+79508879,@user1767754 it probably isn't but how can i check that? netstat -o -n -a | findstr 0.0:8888 gives nothing. and 8888 is the port for jupyter.,46273187,7017670,2017-09-18 06:56:10.140000+00:00
+79509058,"@KalyanReddy can't run the code though, i have live data fetching...",46273187,7017670,2017-09-18 07:00:58.767000+00:00
+79509202,@Sraw I had tried conda update jupyter it just got stuck at Fetching package metadata ... : Similarly the above command is also now stuck at the same step after asking y/n to removing jupyter...:(,46273187,7017670,2017-09-18 07:05:46.573000+00:00
+79509332,@Sraw yes.................................,46273187,7017670,2017-09-18 07:09:20.307000+00:00
+79510388,@Sraw USING conda create -n py27 python=2.7 anaconda ? aNACONDa has jupyter by default right?,46273187,7017670,2017-09-18 07:38:31.067000+00:00
+79510494,@Sraw again the command gets stuck at Fetching package metadata ...,46273187,7017670,2017-09-18 07:42:05.903000+00:00
+79510571,"@Sraw meanwhile this is happening: >jupyter notebook list
+Currently running servers:
+http://localhost:8888/ :: C:\Users\rafael\Desktop",46273187,7017670,2017-09-18 07:44:08.810000+00:00
+79510724,"@sraw all right, i will reboot now, lets see what happens... ""server you don't remember"" what happened there? did the process get de-linked or something...i don't know much about this stuff :(",46273187,7017670,2017-09-18 07:48:39.663000+00:00
+79512084,"@sraw thanks, after reboot it just worked, could you add it as answer?",46273187,7017670,2017-09-18 08:29:30.130000+00:00
+79705169,@user2357112 i read that was implicit.,46372768,7017670,2017-09-22 20:33:16.543000+00:00
+79705225,@wim oh! i though python 2 vs python 3 debate was just about small things like print. Got to study more.,46372768,7017670,2017-09-22 20:35:31.720000+00:00
+79705400,"@jonrsharpe yes, one trouble I have is that a lot of code is in python 2. And setting it up in python 3 takes effort.",46372768,7017670,2017-09-22 20:41:02.197000+00:00
+81060081,@Shyju any simple code example?,47056033,7017670,2017-11-01 13:55:12.543000+00:00
+2379174,common man SQL is case insensitive everybody knows that...,2397941,195504,2010-03-08 05:34:46.997000+00:00
+3635195,"in Eclipse it shows ""unhandled IOException""",3482141,195504,2010-08-14 05:30:32.597000+00:00
+3635199,what modifications need to be done in the 2nd piece of code to make it run successfuly??,3482141,195504,2010-08-14 05:31:26.793000+00:00
+67350078,"Not clear from the reffered question, what is the code doing here, why need a * ...answer will help a lot of people. thanks.",40036804,7017670,2016-10-14 07:01:03.740000+00:00
+67350330,"@RemcoGerlich thanks a lot, python is a lot more high level than C. Even better than C++.",40036804,7017670,2016-10-14 07:08:27.830000+00:00
+67844594,"@Rex I can't, I fetch the invitation link from the db once the button is clicked. so i have to use the response.",40290369,7017670,2016-10-27 19:53:13.873000+00:00
+46504982,@ParasJoshi I am getting these crash logs from crashlytics and there are many webviews in code base thus I am not able to actually debug rather I verified the code did a dry run and everything seems working fine,29139034,195504,2015-03-19 09:14:38.583000+00:00
+46794237,@Hi All: as I have stated in the question I am looking for the approach or methodology to handle such scenario where I have just these crash logs and nothing else moreover web views are widely distributed over the code base and I am not sure which one is causing the issue,29139034,195504,2015-03-27 11:34:14.873000+00:00
+47227082,"Thanks for the quick reply. But here is another problem. What if I don't know the size of the string that will gonna read from a string? In that case, isn't sscanf method is more reliable than substr method in cstring?",29537303,3551261,2015-04-09 11:38:43.043000+00:00
+47227126,"Andrew, the string I want to parse is a code written in LISP style like this.",29537303,3551261,2015-04-09 11:39:57.860000+00:00
+47227160,((1 2 MINUS)(3 4 IF) MINUS),29537303,3551261,2015-04-09 11:40:52.903000+00:00
+7143475,"can you provide me some links to some tutorials, docs and whitepapers",6041316,195504,2011-05-27 10:22:43.003000+00:00
+8849188,kissxml is bullsh*t library better use nsxml parser,7201534,195504,2011-09-07 16:59:48.370000+00:00
+1518743,background image is in .png format,1648140,195504,2009-10-30 05:26:39.697000+00:00
+1629877,"all the below given solutions are jst for adding details to contact list.
+
+I want help for adding custon fields",1747109,195504,2009-11-17 11:05:13.143000+00:00
+1901511,if you can help well and good otherwise why waste time.........,1984891,195504,2009-12-31 12:38:06.230000+00:00
+1903398,"it may sound weared to you all.........
+
+but dont you see i am querying about some Artificial intelligence about thing.........
+
+atually I am asking about some AI syatem that assigns text of array intelligenty to some speific textfields......
+
+and I know very well how to assign text to textfields lolll........
+
+:-)",1984891,195504,2009-12-31 19:30:18.340000+00:00
+1904674,"yes brad is absolutely correct........
+now can you suggest some solution please........",1984891,195504,2010-01-01 02:21:42.100000+00:00
+1951606,atleast tell me whats wrong in this question?????,2028379,195504,2010-01-08 15:06:54.573000+00:00
+1951650,whats wrong with this question folks,2028379,195504,2010-01-08 15:12:09.303000+00:00
+1957168,tapping left or right  making no difference,2032731,195504,2010-01-09 11:26:05.193000+00:00
+70748503,"Hello, Thank you for your reply.
+@devk, Thanks , your ref. url helps. Now i get result from below code in my routes. php
+oute::get('api/users/{user}', function (App\Models\Access\User\User $user) {
+    echo ""<pre>"";
+    print_r($user);exit;
+});
+But , how can i use that in Controller's method.
+I want to use that in edit action as mentioned in question.
+Thanks in advance.",41761663,2834535,2017-01-21 11:53:01.280000+00:00
+70917083,"Okay , Thanks @vijay , Will check and back to you on this.",41820551,2834535,2017-01-26 05:27:44.710000+00:00
+71209433,"@C̲̅R̲̅O̲̅Z̲̅E̲̅T̲̅ , Okay, so which permission i should give ?",41997881,2834535,2017-02-03 05:35:16.080000+00:00
+71209449,"@Ken Okay, i will give it as 770 Permission and will check.",41997881,2834535,2017-02-03 05:35:34.983000+00:00
+71209468,"@apokryfos, Yes, I have configured Git in server and deploying using it.",41997881,2834535,2017-02-03 05:36:26.753000+00:00
+71209685,@Ken 770 Permission not works. It stops whole website to stop works.,41997881,2834535,2017-02-03 05:46:41.947000+00:00
+71216392,"@apokryfos , I am not using cron , i am using manual GIT PULL in server . And also, storage folder is in git ignore for that.",41997881,2834535,2017-02-03 09:42:11.670000+00:00
+71487960,"Thanks @NicolasD for Quick Reply, But i solved it already.",42161292,2834535,2017-02-10 14:16:40.300000+00:00
+72380323,"@TimWilkinson yes Excel 2016. I tried with both, same problem.",42626172,7017670,2017-03-06 13:01:38.273000+00:00
+99338158,@hpaulj how will i sort then?,56367436,7017670,2019-05-29 19:49:48.360000+00:00
+100373741,@Tsyvarev how do i install that?,56910282,7017670,2019-07-06 15:39:17.430000+00:00
+100380395,"@darthbith i am on an Ubuntu server...regular make build, make install",56910282,7017670,2019-07-07 02:07:03.053000+00:00
+100380740,"@WarrenWeckesser A is 1000000 x 1024, B is 1000000 x 512",56918948,7017670,2019-07-07 03:05:32.480000+00:00
+100380758,@fizzybear no. its not. its a transformation of a mtrix,56918948,7017670,2019-07-07 03:08:55.380000+00:00
+101545114,"@uprego i did it incorrectly then, doesnt matter.. :) have to get the correct way",57540427,7017670,2019-08-17 22:48:25.933000+00:00
+95019637,"No, I will run that and will update you, Thanks for your reply @matthiasunt",54092809,2834535,2019-01-08 14:25:03.267000+00:00
+95389324,@Someprogrammerdude -bash: gcc-8.2: command not found .. versions probably got muddled somehow . plz see the edit :),54283896,7017670,2019-01-21 05:33:25.010000+00:00
+95389827,"@S.M. not helping: $ brew reinstall gcc
+==> Reinstalling gcc 
+==> Downloading https://homebrew.bintray.com/bottles/gcc-8.2.0.mojave.bottle.2.tar.gz
+Already downloaded: /Users/rafael/Library/Caches/Homebrew/downloads/5e336edb977168e21c1c3d0e1d374b76c39a8780ccee6b1e2d81a832a3f01118--gcc-8.2.0.mojave.bottle.2.tar.gz
+==> Pouring gcc-8.2.0.mojave.bottle.2.tar.gz
+  /usr/local/Cellar/gcc/8.2.0: 1,413 files, 295.9MB",54283896,7017670,2019-01-21 06:04:22.897000+00:00
+95390068,"@S.M. brew info gcc
+gcc: stable 8.2.0 (bottled), HEAD
+GNU compiler collection
+https://gcc.gnu.org/
+/usr/local/Cellar/gcc/8.2.0 (1,413 files, 295.9MB) *
+  Poured from bottle on 2019-01-21 at 01:02:14
+From: https://github.com/Homebrew/homebrew-core/blob/master/Formula/gcc.rb
+==> Dependencies
+Required: gmp ✔, isl ✔, libmpc ✔, mpfr ✔
+==> Options
+--HEAD
+ Install HEAD version
+==> Analytics
+install: 54,946 (30 days), 200,444 (90 days), 744,276 (365 days)
+install_on_request: 27,214 (30 days), 99,657 (90 days), 351,621 (365 days)
+build_error: 0 (30 days)",54283896,7017670,2019-01-21 06:19:23.183000+00:00
+95390073,@S.M. how to activate gcc?,54283896,7017670,2019-01-21 06:19:43.410000+00:00
+95390657,"I get the error, seems like compiler isnt getting recognized yet at all places: CMake Error at /usr/local/Cellar/cmake/3.12.4/share/cmake/Modules/CMakeDetermineCCompiler.cmake:48 (message):
+  Could not find compiler set in environment variable CC:
+
+  /usr/local/bin/gcc.
+Call Stack (most recent call first):
+  CMakeLists.txt:3 (project)
+
+
+CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage",54283896,7017670,2019-01-21 06:49:01.933000+00:00
+95390984,@S.M. don't know why but after the above command i get -bash: gcc-8: command not found..again the earlier error,54283896,7017670,2019-01-21 07:04:20.033000+00:00
+95410989,"@GKE yes, I mostly worked with ubuntu.",54283896,7017670,2019-01-21 17:46:35.230000+00:00
+95411142,"@GKE adding path to bash_profile export PATH=""/usr/local/bin:$PATH"" still doesnt recognize gcc",54283896,7017670,2019-01-21 17:51:55.887000+00:00
+95638194,@anand_v.singh I just defined another function to be used.. defined it and tried to use it..what should I do to make it work? I just want to define a function that takes tensors as input just like tf cross entropy function. please suggest how to do that. thank you!,54413853,7017670,2019-01-29 04:34:09.367000+00:00
+95822075,"@Ouroborus no, no consider this https://opensource.com/article/18/5/gnu-parallel i want to run a python program along with this parallel..for a very specific case..if an arbitrary convert program can be piped to parallel ..why wouldn't a python program?",54509214,7017670,2019-02-04 01:52:00.400000+00:00
+95823449,"@PaulCornelius yes, the print statement works fine",54509870,7017670,2019-02-04 04:11:50.523000+00:00
+95823477,@PaulCornelius i closed f and g. still no new file created.,54509870,7017670,2019-02-04 04:14:09.130000+00:00
+95823629,"@Aaron how to ensure that the files get written, any change required in the future loop?",54509870,7017670,2019-02-04 04:29:06.857000+00:00
+95841376,how should i correct this,54519152,8056895,2019-02-04 15:24:59.633000+00:00
+95821892,"why vote for close? This is a very specific question, asking how to use parallel in bash with python, along with arguments. I have edited the question to make it more clear, please reconsider.",54509214,7017670,2019-02-04 01:31:40.900000+00:00
+73563662,@JigneshVariya  e.Item.Cells[3].Controls[0] is System.Web.UI.LiteralControl,43246883,7017670,2017-04-06 06:18:34.120000+00:00
+73565199,"@JonP the check box markup looks like    <asp:CheckBox ID=""lblEditCheck"" runat=""server"" TabIndex=""0"" Width=""30px"" CssClass=""ColumnHeader"" /></td>",43246883,7017670,2017-04-06 07:02:34.777000+00:00
+73610181,@john I edited the question with a way that didn't work. It is quite similar.,43270908,7017670,2017-04-07 06:19:05.280000+00:00
+73678343,@TomHarrington   I'm book keeping these objectIds in an array and need to check if array contains the object id or not,43298081,195504,2017-04-09 12:42:50.693000+00:00
+75191840,@onurgüngör Is it important to use --config=opt flag on building tensorflow?,44084456,3551261,2017-05-20 10:16:11.257000+00:00
+75805033,@Alex Added the code!,44402076,3551261,2017-06-07 02:51:01.310000+00:00
+75862587,@RomanLuštrik Oh this is just a part of the research topic I'm doing. So the result of the inference would be broader than the thing showed on the code.,44432483,3551261,2017-06-08 10:01:39.953000+00:00
+75862616,"@akrun So ""AND"" in R is &, not &&?",44432483,3551261,2017-06-08 10:02:29.280000+00:00
+75862711,@zx8754 Thanks. This really helps.,44432483,3551261,2017-06-08 10:04:28.283000+00:00
+75862833,@zx8754 I'll just leave my own answer cause I'm in danger of being banned.,44432483,3551261,2017-06-08 10:07:35.550000+00:00
+68877987,@sajibkhan no conflicts are there...it says continuous integration is failing...erverytime,40828632,7017670,2016-11-27 14:38:54.020000+00:00
+68934354,"@Pockets Hi, plz explain a bit more: m I missing any step?. I have several pull requests failed due to this and nobody in my college so far has given a solution. Thanks a lot.",40828632,7017670,2016-11-29 06:39:34.487000+00:00
+69277853,"@Dai Yes, index.html is there.",41035134,7017670,2016-12-08 08:55:27.057000+00:00
+69277876,"@Dai yes, I get You do not have permission to view this directory or page. when I access my website directly.",41035134,7017670,2016-12-08 08:56:09.810000+00:00
+69277979,@Dai No in Kudu I don't see the files...no index.html and my image file is there. Site folder shows D:\home ....,41035134,7017670,2016-12-08 08:58:45.757000+00:00
+69278034,@Dai I don't see the files...any way the files themselves may not have been uploaded or smthmg...,41035134,7017670,2016-12-08 09:00:11.120000+00:00
+69284507,"@DavidMakogon Hi, there are not many details, site files are uploaded fine, I can see the wwwroot folder..yet it is giving error.",41035134,7017670,2016-12-08 11:43:46.707000+00:00
+69286472,"@DavidMakogon thanks, i will edit my question.",41035134,7017670,2016-12-08 12:34:59.453000+00:00
+69725658,No you are getting it wrong. That is one element of the dataset. As i said this repeats without any enclosing braces.,41262589,7017670,2016-12-21 12:16:22.430000+00:00
+69725808,"@T.J.Crowder yep, i highlighted in bold and i thought that was fine. I edited the question.",41262589,7017670,2016-12-21 12:19:52.053000+00:00
+70395867,"@chris_anderson i didn't understand, what command to run for checking that?",41593902,7017670,2017-01-11 17:00:48.777000+00:00
+68826126,"@phuzi Its not vague as there must be some way you can do this quite simply, at least could you tell how to port it?",40801985,7017670,2016-11-25 10:19:39.887000+00:00
+69725676,wow people downvoting without even reading the question............,41262589,7017670,2016-12-21 12:16:39.450000+00:00
